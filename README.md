@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" />
+  <img src="https://media1.tenor.com/m/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Franz</h1>
@@ -52,9 +52,10 @@
     <td><b>Data & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
     </td>
@@ -71,7 +72,7 @@
 </p>
 
 <ul>
-  <li>Building <b>ETL pipelines</b> and  <b>Web Scraping</b></li>
+  <li>Building <b>ETL pipelines</b> and <b>Web Scraping</b></li>
   <li>Exploring <b>Data Engineering fundamentals</b> (SQL, data warehousing, big data concepts)</li>
 </ul>
 
@@ -80,9 +81,9 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegenDerpz&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegenDerpz&theme=tokyonight&hide_border=true"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegenDerpz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegenDerpz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
