@@ -91,7 +91,7 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/franz-christian-dela-victoria-474ba6168" target="_blank">
+  <a href="https://www.linkedin.com/in/franz-dv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
 </p>
