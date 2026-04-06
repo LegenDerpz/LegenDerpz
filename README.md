@@ -1,34 +1,40 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://media1.tenor.com/m/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Franz</h1>
-
-<p align="center">
-  📊 Aspiring Data Engineer<br>
-  🎮 Game Developer
+<div align="center">
+  <h1>Hi, I'm Franz</h1>
+  <p>
+    Data Engineer | Software Engineer | Game Developer
+  </p>
+  <p>
+  <a href="https://www.linkedin.com/in/franz-dv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+</div>
 
 ---
 
-<h2>🧑‍💻 About Me</h2>
+## About
 
-<ul>
-  <li>Passionate about <b>Data Engineering</b>, <b>AI</b>, and <b>Game Development</b></li>
-  <li>Experienced with <b>Unity (2D/3D)</b>, <b>FastAPI</b>, <b>Laravel</b>, and <b>Python data tools</b></li>
-  <li>Currently pursuing <b>Data Engineering</b> through IBM’s Coursera specialization</li>
-  <li>Acquired skills in:
-    <ul>
-      <li>🔄 <b>ETL (Extract, Transform, Load)</b></li>
-      <li>🌐 <b>Web Scraping</b></li>
-    </ul>
-  </li>
-</ul>
+* Passionate about Data Engineering, AI, and Game Development.
+* Experienced in building intelligent systems, data pipelines, and scalable architectures.
 
----
+## Featured Projects
 
-<h2>🛠️ Tech Stack</h2>
+* **La Search AI**: Co-developed an intelligent information assistance system utilizing LLMs and RAG. Presented this project at the CHED RAISE 2026 national event in Iloilo.
+* **DataScout**: Developed a mobile application serving as a dataset profiler and quality analyzer.
+* **Scores**: Built a mobile application that implements computer vision to automatically check multiple-choice answer sheets.
+* **The Gods We Buried**: Developed The Gods We Buried at Holysoft Studios, a single-player tactical roguelike game blending autobattler mechanics with strategic unit placement for
+desktop.
+
+## Certifications
+
+* Data Engineering Foundations Specialization (IBM)
+* Hands-on Introduction to Linux Commands and Shell Scripting
+
+## Tech Stack
 
 <table>
   <tr>
@@ -38,6 +44,7 @@
       <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -46,6 +53,8 @@
       <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -55,43 +64,37 @@
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-4285F4?logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/MediaPipe-4285F4?logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2>📖 Currently Learning</h2>
+## GitHub Stats
+
+<p align="center">
+  <br>
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=LegenDerpz&theme=react-dark&hide_border=true" 
+  alt="GitHub Activity Graph"
+/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegenDerpz&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM_Data_Engineering-052FAD?logo=ibm&logoColor=white"/>
 </p>
 
-<ul>
-  <li>Building <b>ETL pipelines</b> and <b>Web Scraping</b></li>
-  <li>Exploring <b>Data Engineering fundamentals</b> (SQL, data warehousing, big data concepts)</li>
-</ul>
-
----
-
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegenDerpz&theme=tokyonight&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegenDerpz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2>🌐 Connect with Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/franz-dv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+* Designing robust ETL pipelines and advanced Web Scraping.
+* Exploring Data Engineering fundamentals (SQL optimization, data warehousing, big data architectures).
+* Database Administration.
